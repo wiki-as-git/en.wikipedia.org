@@ -163,6 +163,7 @@ The following is the list of number of competitors participating at the Games pe
 ==Para cross-country skiing==
 {{Main|Para cross-country skiing at the 2026 Winter Paralympics}}
 
+;Individual
 {| class=wikitable style="font-size:90%"
 ! rowspan=2|Athlete
 ! rowspan=2|Class
@@ -297,6 +298,19 @@ The following is the list of number of competitors participating at the Games pe
 |colspan=4{{n/a}}
 |
 |
+|}
+
+;Relay
+{| class=wikitable style="font-size:90%"
+! Athletes
+! Event
+! Time
+! Rank
+|-
+| 
+| [[Cross-country skiing at the 2026 Winter Paralympics – Mixed 4 × 2.5 kilometre relay|4 × 2.5km mixed relay]]
+| align="center"|
+| align="center"|
 |}
 
 ==Para snowboard==
