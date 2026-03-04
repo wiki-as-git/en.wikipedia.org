@@ -1,0 +1,373 @@
+{{Infobox country at games
+| NOC               = 
+| NPC               = BRA
+| IAAF              = 
+| CGA               = 
+| NF                = 
+| country           = Brazil
+| year              = 2026
+| games             = Winter Paralympics
+| games_link        = 
+| flag              = 
+| flagcaption       = [[Flag of Brazil]]
+| alt               = 
+| oldcode           = 
+| NOCname           = 
+| NPCname           = [[Brazilian Paralympic Committee]]
+| CGAname           = 
+| NFname            = 
+| fedname           = 
+| website           = 
+| location          = Milan & Cortina d'Ampezzo, Italy
+| start_date        = {{Start date|2026|3|6|df=y}}
+| end_date          = {{End date|2026|3|15|df=y}}
+| date              = 
+| competitors       = 8
+| competitors_men   = 5
+| competitors_women = 3
+| sports            = 3
+| events            = 
+| flagbearer        = 
+| flagbearer_open   = 
+| flagbearer_close  = 
+| coaches           = 
+| rank              = 
+| officials         = 
+| gold              = 
+| silver            = 
+| bronze            = 
+| appearances       = auto
+| app_begin_year    = 2014
+| app_interval      = 4
+| summerappearances = 
+| winterappearances = 
+| youthappearances  = 
+| seealso           = 
+| previous          = 
+| next              = 
+}}
+[[Argentina]] will compete at the [[2026 Winter Paralympics]] in [[Milan]] & [[Cortina d'Ampezzo]], Italy, which will take place between 6–15 March 2026.<ref>[https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/hubs/individuals?noc=BRA]</ref>
+
+==Competitors==
+The following is the list of number of competitors participating at the Games per sport/discipline.
+
+{|class="wikitable sortable" style=text-align:center
+! width=150|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+|align=left|[[Para biathlon at the 2026 Winter Paralympics|Para biathlon]]
+| rowspan=2|4 || rowspan=2|2 || rowspan=2|6
+|-
+|align=left|[[Para cross-country skiing at the 2026 Winter Paralympics|Para cross-country skiing]]
+|-
+| align=left|[[Para snowboard at the 2026 Winter Paralympics|Para snowboard]]
+| 1 || 1 || 2
+|-
+! Total || 5 || 3 || 8
+|}
+
+==Para biathlon==
+{{Main|Para biathlon at the 2026 Winter Paralympics}}
+
+{| class=wikitable style="font-size:90%"
+! rowspan=2|Athlete
+! rowspan=2|Class
+! rowspan=2|Event
+! colspan=3|Qualification
+! colspan=3|Final
+|-
+! Missed shots
+! Time
+! Rank
+! Missed shots
+! Time
+! Rank
+|-align=center
+| align=left rowspan=3|[[Robelson Lula]]
+| align=left rowspan=3|LW12
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's individual#Sitting|Men's individual, sitting]]
+|colspan=3{{n/a}}
+|
+|
+|
+|-align=center
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint#Sitting|Men's sprint, sitting]]
+|colspan=3{{n/a}}
+|
+|
+|
+|-align=center
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint pursuit#Sitting|Men's sprint pursuit, sitting]]
+|
+|
+|
+|
+|
+|
+|-align=center
+| align=left rowspan=3|[[Guilherme Rocha]]
+| align=left rowspan=3|LW12
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's individual#Sitting|Men's individual, sitting]]
+|colspan=3{{n/a}}
+|
+|
+|
+|-align=center
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint#Sitting|Men's sprint, sitting]]
+|colspan=3{{n/a}}
+|
+|
+|
+|-align=center
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint pursuit#Sitting|Men's sprint pursuit, sitting]]
+|
+|
+|
+|
+|
+|
+|-align=center
+| align=left rowspan=3|[[Elena de Sena]]
+| align=left rowspan=3|LW12
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's individual#Sitting|Women's individual, sitting]]
+|colspan=3{{n/a}}
+|
+|
+|
+|-align=center
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint#Sitting|Women's sprint, sitting]]
+|colspan=3{{n/a}}
+|
+|
+|
+|-align=center
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint pursuit#Sitting|Women's sprint pursuit, sitting]]
+|
+|
+|
+|
+|
+|
+|-align=center
+| align=left|[[Aline Rocha]]
+| align=left|LW10.5
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint#Sitting|Women's sprint, sitting]]
+|colspan=3{{n/a}}
+|
+|
+|
+|}
+
+==Para cross-country skiing==
+{{Main|Para cross-country skiing at the 2026 Winter Paralympics}}
+
+{| class=wikitable style="font-size:90%"
+! rowspan=2|Athlete
+! rowspan=2|Class
+! rowspan=2|Event
+! colspan=2|Qualification
+! colspan=2|Semifinal
+! colspan=2|Final
+|- style="font-size:95%"
+! Time
+! Rank
+! Time
+! Rank
+! Time
+! Rank
+|-align=center
+| align=left rowspan=3|[[Wellington da Silva (skier)|Wellington da Silva]]
+| align=left rowspan=3|LW8
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Standing|Men's sprint classical, standing]]
+|
+|
+|
+|
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 10 kilometre classical#Standing|Men's 10 km classical, standing]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 20 kilometre freestyle#Standing|Men's 20 km freestyle, standing]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left rowspan=3|[[Robelson Lula]]
+| align=left rowspan=3|LW12
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Sitting|Men's sprint, sitting]]
+|
+|
+|
+|
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 10 kilometre classical#Sitting|Men's 10 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 20 kilometre freestyle#Sitting|Men's 20 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left rowspan=3|[[Cristian Ribera]]
+| align=left rowspan=3|LW11
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Sitting|Men's sprint, sitting]]
+|
+|
+|
+|
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 10 kilometre classical#Sitting|Men's 10 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 20 kilometre freestyle#Sitting|Men's 20 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left rowspan=3|[[Guilherme Rocha]]
+| align=left rowspan=3|LW12
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Sitting|Men's sprint, sitting]]
+|
+|
+|
+|
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 10 kilometre classical#Sitting|Men's 10 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 20 kilometre freestyle#Sitting|Men's 20 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left rowspan=3|[[Elena de Sena]]
+| align=left rowspan=3|LW12
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's sprint classical#Sitting|Women's sprint, sitting]]
+|
+|
+|
+|
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's 10 kilometre classical#Sitting|Women's 10 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's 20 kilometre freestyle#Sitting|Women's 20 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left rowspan=3|[[Aline Rocha]]
+| align=left rowspan=3|LW10.5
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's sprint classical#Sitting|Women's sprint, sitting]]
+|
+|
+|
+|
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's 10 kilometre classical#Sitting|Women's 10 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|-align=center
+| align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's 20 kilometre freestyle#Sitting|Women's 20 km, sitting]]
+|colspan=4{{n/a}}
+|
+|
+|}
+
+==Para snowboard==
+{{Main|Para snowboard at the 2026 Winter Paralympics}}
+
+;Banked slalom
+{| class=wikitable style="font-size:90%"
+|-
+! Athlete
+! Event
+! Run 1
+! Run 2
+! Best
+! Rank
+|-align=center
+| align=left|[[André Barbieri]]
+| align=left|[[Snowboarding at the 2026 Winter Paralympics – Men's banked slalom#Banked slalom SB-LL1|Men's banked slalom, SB-LL1]]
+|
+|
+|
+|
+|-align=center
+| align=left|[[Vitoria Machado]]
+| align=left|[[Snowboarding at the 2026 Winter Paralympics – Women's banked slalom#Banked slalom SB-LL2|Women's banked slalom, SB-LL2]]
+|
+|
+|
+|
+|}
+
+;Snowboard cross
+
+{| class=wikitable style="font-size:90%; text-align:center"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Seeding
+!1/8 final
+!Quarterfinal
+!Semifinal
+!colspan=2|Final
+|-style=font-size:95%
+!Time
+!Rank
+!Position
+!Position
+!Position
+!Position
+!Rank
+|-
+| align=left|[[André Barbieri]]
+| align=left|[[Snowboarding at the 2026 Winter Paralympics – Men's snowboard cross#Snowboard cross SB-LL1|Men's snowboard cross, SB-LL1]]
+|
+|
+|
+|
+|
+|
+|
+|}
+
+==See also==
+*[[Brazil at the Paralympics]]
+*[[Brazil at the 2026 Winter Olympics]]
+
+==References==
+{{reflist}}
+
+{{NPCs at the 2026 Winter Paralympics}}
+{{Authority control}}
+
+[[Category:Nations at the 2026 Winter Paralympics]]
+[[Category:Brazil at the Paralympics|2026]]
+[[Category:2026 in Brazilian sport|Winter Paralympics]]
