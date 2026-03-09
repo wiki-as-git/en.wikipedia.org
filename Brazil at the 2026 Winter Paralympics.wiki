@@ -90,15 +90,15 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|LW12
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's individual#Sitting|Men's individual, sitting]]
 |colspan=3{{n/a}}
-|
-|
-|
+|10 (1+3+4+2)
+|48:54.9
+|26
 |-align=center
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint#Sitting|Men's sprint, sitting]]
 |colspan=3{{n/a}}
-|
-|
-|
+|4 (2+2)
+|24:27.0
+|21
 |-align=center
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint pursuit#Sitting|Men's sprint pursuit, sitting]]
 |
@@ -112,15 +112,15 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|LW12
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's individual#Sitting|Men's individual, sitting]]
 |colspan=3{{n/a}}
-|
-|
-|
+|3 (1+0+2+0)
+|42:30.9
+|16
 |-align=center
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint#Sitting|Men's sprint, sitting]]
 |colspan=3{{n/a}}
-|
-|
-|
+|0 (0+0)
+|22:48.9
+|16
 |-align=center
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint pursuit#Sitting|Men's sprint pursuit, sitting]]
 |
@@ -134,15 +134,15 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|LW12
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's individual#Sitting|Women's individual, sitting]]
 |colspan=3{{n/a}}
-|
-|
-|
+|6 (0+1+2+3)
+|54:36.8
+|11
 |-align=center
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint#Sitting|Women's sprint, sitting]]
 |colspan=3{{n/a}}
-|
-|
-|
+|1 (1+0)
+|27:43.2
+|14
 |-align=center
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint pursuit#Sitting|Women's sprint pursuit, sitting]]
 |
@@ -156,9 +156,9 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left|LW10.5
 | align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint#Sitting|Women's sprint, sitting]]
 |colspan=3{{n/a}}
-|
-|
-|
+|2 (0+2)
+|23:50.6
+|7
 |}
 
 ==Para cross-country skiing==
