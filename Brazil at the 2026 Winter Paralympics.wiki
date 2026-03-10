@@ -238,7 +238,7 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 |2:28.7
 |1 '''Q'''
 |2:29.6
-|{{gold01}}
+|{{silver02}}
 |-align=center
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 10 kilometre classical#Sitting|Men's 10 km, sitting]]
 |colspan=4{{n/a}}
