@@ -198,12 +198,9 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|[[Wellington da Silva (skier)|Wellington da Silva]]
 | align=left rowspan=3|LW8
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Standing|Men's sprint classical, standing]]
-|
-|
-|
-|
-|
-|
+|2:48.29
+|19
+|colspan=4|Did not advance
 |-align=center
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 10 kilometre classical#Standing|Men's 10 km classical, standing]]
 |colspan=4{{n/a}}
@@ -218,12 +215,9 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|[[Robelson Lula]]
 | align=left rowspan=3|LW12
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Sitting|Men's sprint, sitting]]
-|
-|
-|
-|
-|
-|
+|2:25.01
+|20
+|colspan=4|Did not advance
 |-align=center
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 10 kilometre classical#Sitting|Men's 10 km, sitting]]
 |colspan=4{{n/a}}
@@ -238,12 +232,12 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|[[Cristian Ribera]]
 | align=left rowspan=3|LW11
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Sitting|Men's sprint, sitting]]
-|
-|
-|
-|
-|
-|
+|2:08.22	
+|1 '''Q'''
+|2:28.7
+|1 '''Q'''
+|2:29.6
+|{{gold01}}
 |-align=center
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 10 kilometre classical#Sitting|Men's 10 km, sitting]]
 |colspan=4{{n/a}}
@@ -258,12 +252,9 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|[[Guilherme Rocha]]
 | align=left rowspan=3|LW12
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Sitting|Men's sprint, sitting]]
-|
-|
-|
-|
-|
-|
+|2:22.41
+|18
+|colspan=4|Did not advance
 |-align=center
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Men's 10 kilometre classical#Sitting|Men's 10 km, sitting]]
 |colspan=4{{n/a}}
@@ -278,12 +269,9 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|[[Elena de Sena]]
 | align=left rowspan=3|LW12
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's sprint classical#Sitting|Women's sprint, sitting]]
-|
-|
-|
-|
-|
-|
+|2:57.52
+|16
+|colspan=4|Did not advance
 |-align=center
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's 10 kilometre classical#Sitting|Women's 10 km, sitting]]
 |colspan=4{{n/a}}
@@ -298,12 +286,12 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|[[Aline Rocha]]
 | align=left rowspan=3|LW10.5
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's sprint classical#Sitting|Women's sprint, sitting]]
-|
-|
-|
-|
-|
-|
+|2:37.56
+|3
+|3:05.0
+|2
+|3:21.0
+|5
 |-align=center
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's 10 kilometre classical#Sitting|Women's 10 km, sitting]]
 |colspan=4{{n/a}}
