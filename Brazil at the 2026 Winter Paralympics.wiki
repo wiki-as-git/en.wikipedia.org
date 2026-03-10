@@ -28,7 +28,7 @@
 | sports            = 3
 | events            = 
 | flagbearer        = 
-| flagbearer_open   = 
+| flagbearer_open   = [[Cristian Ribera]]<br />[[Aline Rocha]]
 | flagbearer_close  = 
 | coaches           = 
 | rank              = 
