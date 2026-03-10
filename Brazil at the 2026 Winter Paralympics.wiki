@@ -34,7 +34,7 @@
 | rank              = 
 | officials         = 
 | gold              = 
-| silver            = 
+| silver            = 1
 | bronze            = 
 | appearances       = auto
 | app_begin_year    = 2014
@@ -47,6 +47,21 @@
 | next              = 
 }}
 [[Brazil]] will compete at the [[2026 Winter Paralympics]] in [[Milan]] & [[Cortina d'Ampezzo]], Italy, which will take place between 6–15 March 2026.<ref>[https://www.olympics.com/en/milano-cortina-2026/paralympic-games/results/hubs/individuals?noc=BRA]</ref>
+
+==Medallists==
+{{main|2026 Winter Paralympics medal table}}
+{{col-begin}}
+|  style="text-align:left; width:78%; vertical-align:top;"|
+{| class="wikitable sortable" style="font-size: 95%;"
+|-
+! Medal
+! Name
+! Sport
+! Event
+! Date
+|-
+| {{silver medal}} || {{Sortname|Cristian|Ribera}} || [[Para cross-country skiing at the 2026 Winter Paralympics|Para cross-country skiing]] || [[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Sitting|Men's sprint, sitting]] || {{dts|10 March}}
+|}
 
 ==Competitors==
 The following is the list of number of competitors participating at the Games per sport/discipline.
