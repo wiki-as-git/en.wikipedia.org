@@ -287,9 +287,9 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 | align=left rowspan=3|LW10.5
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's sprint classical#Sitting|Women's sprint, sitting]]
 |2:37.56
-|3
+|3 '''Q'''
 |3:05.0
-|2
+|2 '''Q'''
 |3:21.0
 |5
 |-align=center
