@@ -90,6 +90,7 @@ The following is the list of number of competitors participating at the Games pe
 {{Main|Para biathlon at the 2026 Winter Paralympics}}
 Brazil has qualified four para-biathletes for the following Paralympics events.
 
+;Men
 {| class=wikitable style="font-size:90%"
 ! rowspan=2|Athlete
 ! rowspan=2|Class
@@ -106,19 +107,19 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 |-align=center
 | align=left rowspan=3|[[Robelson Lula]]
 | align=left rowspan=3|LW12
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's individual#Sitting|Men's individual, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's individual#Sitting|Individual, sitting]]
 |colspan=3{{n/a}}
 |10 (1+3+4+2)
 |48:54.9
 |26
 |-align=center
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint#Sitting|Men's sprint, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint#Sitting|Sprint, sitting]]
 |colspan=3{{n/a}}
 |4 (2+2)
 |24:27.0
 |21
 |-align=center
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint pursuit#Sitting|Men's sprint pursuit, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint pursuit#Sitting|Sprint pursuit, sitting]]
 |
 |
 |
@@ -128,41 +129,57 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 |-align=center
 | align=left rowspan=3|[[Guilherme Rocha]]
 | align=left rowspan=3|LW12
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's individual#Sitting|Men's individual, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's individual#Sitting|Individual, sitting]]
 |colspan=3{{n/a}}
 |3 (1+0+2+0)
 |42:30.9
 |16
 |-align=center
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint#Sitting|Men's sprint, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint#Sitting|Sprint, sitting]]
 |colspan=3{{n/a}}
 |0 (0+0)
 |22:48.9
 |16
 |-align=center
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint pursuit#Sitting|Men's sprint pursuit, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Men's sprint pursuit#Sitting|Sprint pursuit, sitting]]
 |
 |
 |
 |
 |
 |
+|}
+
+;Women
+{| class=wikitable style="font-size:90%"
+! rowspan=2|Athlete
+! rowspan=2|Class
+! rowspan=2|Event
+! colspan=3|Qualification
+! colspan=3|Final
+|-
+! Missed shots
+! Time
+! Rank
+! Missed shots
+! Time
+! Rank
 |-align=center
-| align=left rowspan=3|[[Elena de Sena]]
+| align=left rowspan=3|[[Elena de Sena|Elena {{nowrap|de Sena}}]]
 | align=left rowspan=3|LW12
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's individual#Sitting|Women's individual, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's individual#Sitting|Individual, sitting]]
 |colspan=3{{n/a}}
 |6 (0+1+2+3)
 |54:36.8
 |11
 |-align=center
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint#Sitting|Women's sprint, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint#Sitting|Sprint, sitting]]
 |colspan=3{{n/a}}
 |1 (1+0)
 |27:43.2
 |14
 |-align=center
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint pursuit#Sitting|Women's sprint pursuit, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint pursuit#Sitting|Sprint pursuit, sitting]]
 |
 |
 |
@@ -172,7 +189,7 @@ Brazil has qualified four para-biathletes for the following Paralympics events.
 |-align=center
 | align=left|[[Aline Rocha]]
 | align=left|LW10.5
-| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint#Sitting|Women's sprint, sitting]]
+| align=left|[[Para biathlon at the 2026 Winter Paralympics – Women's sprint#Sitting|Sprint, sitting]]
 |colspan=3{{n/a}}
 |2 (0+2)
 |23:50.6
