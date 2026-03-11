@@ -52,9 +52,7 @@ On 10 March 2026, Brazil won the first medal in their [[Winter Paralympic Games|
 
 ==Medallists==
 {{main|2026 Winter Paralympics medal table}}
-{{col-begin}}
-|  style="text-align:left; width:78%; vertical-align:top;"|
-{| class="wikitable sortable" style="font-size: 95%;"
+{| class="wikitable" style="font-size: 95%;"
 |-
 ! Medal
 ! Name
@@ -64,7 +62,6 @@ On 10 March 2026, Brazil won the first medal in their [[Winter Paralympic Games|
 |-
 | {{silver medal}} || {{Sortname|Cristian|Ribera}} || [[Para cross-country skiing at the 2026 Winter Paralympics|Para cross-country skiing]] || [[Para cross-country skiing at the 2026 Winter Paralympics – Men's sprint classical#Sitting|Men's sprint, sitting]] || {{dts|10 March}}
 |}
-{{col-end}}
 
 ==Competitors==
 The following is the list of number of competitors participating at the Games per sport/discipline.
