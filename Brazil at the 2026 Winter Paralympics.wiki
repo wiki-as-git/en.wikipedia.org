@@ -52,7 +52,7 @@ On 10 March 2026, Brazil won the first medal in their [[Winter Paralympic Games|
 
 ==Medallists==
 {{main|2026 Winter Paralympics medal table}}
-{| class="wikitable nowrap" style="font-size: 95%;"
+{| class="wikitable" style="font-size: 95%;"
 |-
 !Medal
 !Name
