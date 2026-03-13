@@ -351,17 +351,17 @@ Brazil has qualified two para-snowboarders for the following Paralympics events.
 |-align=center
 | align=left|[[André Barbieri]]
 | align=left|[[Snowboarding at the 2026 Winter Paralympics – Men's banked slalom#Banked slalom SB-LL1|Men's banked slalom, SB-LL1]]
-|
-|
-|
-|
+|<s>1:16.31</s>
+|1:11.86
+|1:11.86
+|13
 |-align=center
 | align=left|[[Vitoria Machado]]
 | align=left|[[Snowboarding at the 2026 Winter Paralympics – Women's banked slalom#Banked slalom SB-LL2|Women's banked slalom, SB-LL2]]
-|
-|
-|
-|
+|<s>1:21.68</s>
+|1:16.42
+|1:16.42
+|12
 |}
 
 ==See also==
