@@ -300,8 +300,8 @@ Brazil has qualified six para cross-country skiers for the following Paralympics
 |-align=center
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's 20 kilometre freestyle#Sitting|Women's 20 km, sitting]]
 |colspan=4{{n/a}}
-|
-|
+|1:19:04.9
+|14
 |-align=center
 | align=left rowspan=3|[[Aline Rocha]]
 | align=left rowspan=3|LW10.5
@@ -320,8 +320,8 @@ Brazil has qualified six para cross-country skiers for the following Paralympics
 |-align=center
 | align=left|[[Para cross-country skiing at the 2026 Winter Paralympics – Women's 20 kilometre freestyle#Sitting|Women's 20 km, sitting]]
 |colspan=4{{n/a}}
-|
-|
+|1:01:30.2
+|5
 |}
 
 ;Mixed
