@@ -31,7 +31,7 @@
 | flagbearer_open   = [[Cristian Ribera]]<br />[[Aline Rocha]]
 | flagbearer_close  = 
 | coaches           = 
-| rank              = 
+| rank              = 23
 | officials         = 
 | gold              = 
 | silver            = 1
