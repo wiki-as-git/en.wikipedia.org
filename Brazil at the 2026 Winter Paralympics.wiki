@@ -324,7 +324,7 @@ Brazil has qualified six para cross-country skiers for the following Paralympics
 |5
 |}
 
-;Mixed
+;Relay
 {| class=wikitable style="font-size:90%"
 ! Athletes
 ! Event
