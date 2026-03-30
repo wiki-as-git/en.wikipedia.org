@@ -3,7 +3,7 @@
 [[Category:2024 films]]
 {{Infobox film
 | name           = Milk & Serial
-| image          = 
+| image          = Milk & Serial.jpg
 | alt            = 
 | caption        = [[YouTube]] thumbnail
 | director       = [[Curry Barker]]
