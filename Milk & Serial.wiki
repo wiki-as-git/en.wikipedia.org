@@ -8,11 +8,21 @@
 | caption        = [[YouTube]] thumbnail
 | director       = [[Curry Barker]]
 | writer         = Curry Barker
+| producer       = {{Plainlist|
+* Cooper Tomlinson
+* Curry Barker
+}}
 | starring       = {{Plainlist|
 * Curry Barker
 * Cooper Tomlinson
 * Adlih Alvarado
 }}
+| editing        = Curry Barker
+| cinematography = {{Plainlist|
+* Curry Barker
+* Cooper Tomlinson
+}}
+| music          = Curry Barker
 | studio         = That's a Bad Idea
 | distributor    = [[YouTube]]
 | released       = {{Film date|2024|08|08|}}
