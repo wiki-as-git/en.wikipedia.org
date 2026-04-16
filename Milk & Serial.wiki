@@ -1,8 +1,4 @@
 {{Short description|2024 horror film}}
-[[Category:2024 YouTube videos]]
-[[Category:2024 films]]
-[[Category:Films released on YouTube]]
-[[Category:Found_footage_horror_films]]
 {{Infobox film
 | name           = Milk & Serial
 | image          = Milk & Serial.jpg
@@ -70,3 +66,8 @@ Mary McAndrews of ''[[Dread Central]]'' named ''Milk & Serial'' as the "best fou
 == External links ==
 
 * {{YouTube|pbzGQ1lszv4|''Milk & Serial'' (Found Fottage Horror Film)}}
+
+[[Category:2024 YouTube videos]]
+[[Category:2024 films]]
+[[Category:Films released on YouTube]]
+[[Category:Found_footage_horror_films]]
