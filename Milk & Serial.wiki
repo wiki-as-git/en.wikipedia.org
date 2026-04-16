@@ -2,6 +2,7 @@
 [[Category:2024 YouTube videos]]
 [[Category:2024 films]]
 [[Category:Films released on YouTube]]
+[[Category:Found_footage_horror_films]]
 {{Infobox film
 | name           = Milk & Serial
 | image          = Milk & Serial.jpg
