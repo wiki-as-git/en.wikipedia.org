@@ -22,7 +22,7 @@
 }}
 | music          = Curry Barker
 | studio         = that's a bad idea
-| distributor    = [[YouTube]]
+| distributor    = that's a bad idea (Through [[YouTube]])
 | released       = {{Film date|2024|08|08|}}
 | runtime        = 62 minutes
 | country        = United States
