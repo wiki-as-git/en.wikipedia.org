@@ -3,7 +3,7 @@
 | name           = Milk & Serial
 | image          = Milk & Serial.jpg
 | alt            = 
-| caption        = ''Milk & Serial'''s [[YouTube]] thumbnail, featuring [[Curry Barker]] as Milk
+| caption        = Official [[YouTube]] thumbnail
 | director       = [[Curry Barker]]
 | writer         = Curry Barker
 | producer       = {{Plainlist|
@@ -21,8 +21,8 @@
 * Cooper Tomlinson
 }}
 | music          = Curry Barker
-| studio         = that's a bad idea
-| distributor    = That's a Bad Idea {{small|(via [[YouTube]])}}
+| studio         = That's a Bad Idea
+| distributor    = That's a Bad Idea<br>{{small|(via [[YouTube]])}}
 | released       = {{Film date|2024|08|08|}}
 | runtime        = 62 minutes
 | country        = United States
@@ -79,7 +79,7 @@ Mary McAndrews of [[Dread Central]] named ''Milk & Serial'' as among the "best f
 
 == External links ==
 * {{YouTube|pbzGQ1lszv4|''Milk & Serial'' (Found Footage Horror Film)}}
-* ''[[imdbtitle:22075376|Milk & Serial]]'' at [[IMDb]]
+* {{IMDb title|tt22075376}}
 
 {{Curry Barker}}
 
